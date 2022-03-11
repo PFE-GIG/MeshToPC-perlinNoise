@@ -1,4 +1,5 @@
 
+import sys
 import numpy as np
 
 def triangleArea(v1,v2,v3):

@@ -1,0 +1,8 @@
+
+python HiddenPointRemoval.py input output
+
+python meshToPC.py input output1 output2
+
+/home/matthieu/.venv/bin/python /home/matthieu/HiddenPointRemoval.py /home/matthieu/cubePC.ply /home/matthieu/cubePC_HPR.ply
+
+
